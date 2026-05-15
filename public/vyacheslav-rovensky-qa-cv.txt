@@ -1,0 +1,24 @@
+Vyacheslav Rovensky
+QA Automation Engineer
+
+Focus
+- Playwright automation
+- AI-assisted QA workflows
+- API testing
+- Automation architecture
+- Cloud platform validation
+
+Experience
+2025 - Present
+AI QA Automation Engineer
+Designing intelligent automation layers, AI-assisted QA flows, API contracts, and resilient validation systems.
+
+2023 - 2025
+QA & Playwright Automation
+Built stable UI and API suites for modern web platforms with fast feedback and clear release risk signals.
+
+Skills
+Playwright, TypeScript, REST API, AI Testing, Docker, Git, Jenkins, Linux, Security Testing.
+
+Contact
+qa.automation.engineer@example.com

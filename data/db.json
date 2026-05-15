@@ -1,0 +1,97 @@
+{
+  "profile": {
+    "name": "Vyacheslav Rovensky",
+    "role": "QA Automation Engineer",
+    "email": "qa.automation.engineer@example.com",
+    "github": "https://github.com/",
+    "linkedin": "https://www.linkedin.com/"
+  },
+  "skills": [
+    "Playwright",
+    "TypeScript",
+    "REST API",
+    "AI Testing",
+    "Docker",
+    "Git",
+    "Jenkins",
+    "Linux",
+    "Security Testing"
+  ],
+  "projects": [
+    {
+      "title": "AI QA Dashboard",
+      "stack": [
+        "AI QA",
+        "React",
+        "Metrics"
+      ],
+      "copy": "Signal-focused dashboard for test coverage, prompt risks, flaky flows, and automation health."
+    },
+    {
+      "title": "Playwright Automation System",
+      "stack": [
+        "Playwright",
+        "TS",
+        "CI"
+      ],
+      "copy": "Scalable E2E architecture with fixtures, page models, visual checks, and release smoke paths."
+    },
+    {
+      "title": "Object Storage Testing",
+      "stack": [
+        "API",
+        "S3",
+        "Cloud"
+      ],
+      "copy": "Validation suite for bucket flows, permissions, uploads, metadata, and edge-case object behavior."
+    },
+    {
+      "title": "AI Assistant Security Testing",
+      "stack": [
+        "Security",
+        "LLM",
+        "QA"
+      ],
+      "copy": "Adversarial prompt checks, data leakage scenarios, guardrail validation, and abuse-case coverage."
+    },
+    {
+      "title": "Cloud Platform QA",
+      "stack": [
+        "Docker",
+        "Linux",
+        "REST"
+      ],
+      "copy": "Regression strategy for platform services, role access, background jobs, and operational reliability."
+    }
+  ],
+  "messages": [
+    {
+      "name": "test",
+      "email": "slavatestnuw2@omc.co.il",
+      "message": "testtesttest",
+      "id": "7fd162b9-9819-43a6-8f5f-7ea91f330e89",
+      "createdAt": "2026-05-14T22:18:29.649Z"
+    },
+    {
+      "name": "test",
+      "email": "slavatestnuw2@omc.co.il",
+      "message": "testrtesttest",
+      "id": "c4089182-3b99-4a45-ab99-9f69c62be6a6",
+      "createdAt": "2026-05-14T22:17:29.047Z"
+    },
+    {
+      "name": "test",
+      "email": "slavatestnuw2@omc.co.il",
+      "message": "testrtesttest",
+      "id": "c64952bc-ee03-46be-868e-40e1f50839f6",
+      "createdAt": "2026-05-14T22:16:58.440Z"
+    },
+    {
+      "name": "test",
+      "email": "test2@gmail.com",
+      "message": "testtesttest",
+      "id": "97fab13b-e15f-4a29-96ff-e8463158b1e3",
+      "createdAt": "2026-05-14T14:06:12.494Z"
+    }
+  ]
+}
