@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "QA Automation Engineer | Futuristic Portfolio",
+  title: "Звездный Барабан | Интерактивное ТВ-шоу",
   description:
-    "Premium futuristic portfolio for QA automation, Playwright, AI QA, API testing, and automation architecture.",
+    "Авторская интерактивная игра с колесом удачи, угадыванием слов, финалом, рейтингом и праздничной телестудией.",
 };
 
 export default function RootLayout({
@@ -13,7 +13,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="ru">
       <body>{children}</body>
     </html>
   );

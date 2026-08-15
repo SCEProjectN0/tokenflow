@@ -1,0 +1,13 @@
+
+> qa-automation-futuristic-portfolio@1.0.0 dev
+> next dev -p 3001
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3001
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 967ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.7s (1173 modules)
+ ✓ Compiled in 184ms (594 modules)
