@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Звездный Барабан | Интерактивное ТВ-шоу",
+  title: "TokenFlow AI Workspace",
   description:
-    "Авторская интерактивная игра с колесом удачи, угадыванием слов, финалом, рейтингом и праздничной телестудией.",
+    "AI-powered context optimizer, agent workflow, and adaptive model routing for high-efficiency prompts.",
 };
 
 export default function RootLayout({
@@ -14,7 +14,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ru">
-      <body>{children}</body>
+      <body className="bg-slate-950 text-white antialiased">{children}</body>
     </html>
   );
 }

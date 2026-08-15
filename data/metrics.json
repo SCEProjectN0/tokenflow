@@ -1,0 +1,50 @@
+[
+  {
+    "id": "a822bc21-ba0d-467a-a8ee-22386399e3b4",
+    "createdAt": "2026-08-15T22:04:38.070Z",
+    "provider": "token-optimizer-mvp",
+    "model": "mvp-token-optimizer",
+    "originalTokens": 56,
+    "optimizedTokens": 33,
+    "outputTokens": 24,
+    "latencyMs": 180,
+    "savedTokens": 23,
+    "percentageSaved": 41.07142857142857,
+    "cacheHitRatio": 74,
+    "estimatedCostSaved": 0.0069,
+    "budgetLimit": 33,
+    "summary": "Launch timing • Quality gates • Risk control"
+  },
+  {
+    "id": "1cabc9c2-b3c8-415e-b7b8-3529e150ff5b",
+    "createdAt": "2026-08-15T21:50:49.996Z",
+    "provider": "token-optimizer-mvp",
+    "model": "mvp-token-optimizer",
+    "originalTokens": 38,
+    "optimizedTokens": 32,
+    "outputTokens": 24,
+    "latencyMs": 177,
+    "savedTokens": 6,
+    "percentageSaved": 15.789473684210526,
+    "cacheHitRatio": 74,
+    "estimatedCostSaved": 0.0018,
+    "budgetLimit": 32,
+    "summary": "Launch timing • Roadmap • Quality gates"
+  },
+  {
+    "id": "ce37ae5f-8116-4311-aa9f-042faec5a039",
+    "createdAt": "2026-08-15T21:50:24.879Z",
+    "provider": "token-optimizer-mvp",
+    "model": "mvp-token-optimizer",
+    "originalTokens": 38,
+    "optimizedTokens": 32,
+    "outputTokens": 24,
+    "latencyMs": 195,
+    "savedTokens": 6,
+    "percentageSaved": 15.789473684210526,
+    "cacheHitRatio": 74,
+    "estimatedCostSaved": 0.0018,
+    "budgetLimit": 32,
+    "summary": "Launch timing • Roadmap • Quality gates"
+  }
+]

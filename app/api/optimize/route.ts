@@ -61,5 +61,7 @@ export async function POST(request: Request) {
     ...result,
     optimized_messages: result.optimizedMessages,
     selected_chunks: result.selectedChunks,
+    adaptive_mode: result.adaptiveMode,
+    recommended_model: result.recommendedModel,
   });
 }
